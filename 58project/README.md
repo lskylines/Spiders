@@ -1,0 +1,7 @@
+项目为抓取58同城商品标题，价格，地区。
+
+counts.py用于每5秒钟查询商品详情页URL保存到MongoDB的数量
+main.py为入口函数
+page_parsing.py下的get_links函数用于商品详情页的URL获取，get_item_info函数用于商品详情页的相关字段获取
+
+channel_extract.py函数用于URL入口频道的获取(手机，电脑等等)。
