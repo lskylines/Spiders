@@ -16,6 +16,9 @@ URL: https://image.so.com
 ### Pyquery：
     爬取煎蛋网 --jiandan.py
 
+### lxml
+    爬取土耳其TUR-stocks指数信息 --stocks.py
+
 ### 58project用来爬取58同城
 
 ### MaoYan用来爬取猫眼前100名排行电影
